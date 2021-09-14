@@ -5,7 +5,6 @@
 # 日期：2021/9/14
 
 import bs4
-from openpyxl.utils.cell import cols_from_range
 import requests
 import os
 import sys
